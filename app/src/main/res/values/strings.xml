@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Column List</string>
+    <string name="word_count">%d of 10 words</string>
+
+</resources>
